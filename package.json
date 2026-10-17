@@ -1,0 +1,11 @@
+{
+  "name": "shakti-hacker-profile",
+  "version": "1.0.0",
+  "description": "Threat-themed GitHub profile assets: contribution heatmap generator",
+  "private": true,
+  "scripts": {
+    "generate": "node generate.js",
+    "sample": "node generate.js --sample"
+  },
+  "engines": { "node": ">=18" }
+}
